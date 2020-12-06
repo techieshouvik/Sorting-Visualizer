@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="icon" href="./sorting-logo.svg" type="image/icon type">
+
+    <title>Sorting Visualizer</title>
+    <link rel="stylesheet" href="./style.css">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+
+</head>
+<body class="unselectable">
+    
+    <!--Option Bar-->
+    <div class="navbar">
+        <div class="logo"><b><i class="fas fa-signal"></i> Sorting Visualizer</b> - PC/Laptop</div>
+        <div class="option-area">
+            <ul class="option-list">
+                <li class="option active"><a href="./index.html">Visualizer</a></li>
+                <li class="option"><a href="./about.html">About</a></li>
+                <li class="option"><a href="https://github.com/techieshouvik">Github <i class="fab fa-github"></i></a></li>
+            </ul>
+        </div>
+        </div>
+    </div>
+    <!--Visualizer Area-->
+    <div class="container">
+        <div class="algos">
+
+            <button class="generate btn">Generate Array &nbsp<i class="far fa-plus-square"></i></button>
+            <p style="font-size: 124x; padding:5px;">100 random bars</p><br>
+            <hr class="hr">
+            <div class="algohead">Algorithms</div>
+            <form>
+                <select class="technique" name="technique">
+                  <option value="bubble" selected>Bubble Sort</option>
+                  <option value="selection">Selection Sort</option>
+                  <option value="insertion">Insertion Sort</option>
+                  <option class = "inprogress" value="merge">Merge Sort</option>
+                  <option class = "inprogress" value="quick">Quick Sort</option>
+                  <option class = "inprogress" value="heap">Heap Sort</option>
+                </select>
+            </form>
+            <button class="run btn">Run &nbsp<i class="fas fa-play"></i></button>
+        </div>
+        <div class="visualizer-container">
+            <div class="visualizer">
+
+                
+
+            </div>
+        </div>
+    </div>
+    <!--Footer-->
+    <div class="footer">
+        Tool Developed by &nbsp<b>Shouvik Chatterjee</b>
+    </div>
+    <script src="./script.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+</body>
+</html>
