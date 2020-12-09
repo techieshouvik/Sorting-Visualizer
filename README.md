@@ -6,7 +6,7 @@ Built Completely in HTML, CSS, Javascript<br><br>
   <img src = "Postpic1.PNG">
 </p>
 
-<p><h2><b>How to Use the Tool?</b></h2></p>
+<p><h2><b>#1 How to Use the Tool?</b></h2></p>
 <p> Some Important JS Concepts to explore : <br>
   <b>Step 1 :</b> Click on the link to the Tool→ <b><a href="https://techieshouvik.github.io/Sorting-Visualizer/">Sorting Visualizer</a></b> <br>
   <b>Step 2 :</b> Click on |Generate Array| Button<br>
@@ -15,7 +15,7 @@ Built Completely in HTML, CSS, Javascript<br><br>
   <b>WOLLA!</b> You can see them get SORTED! in real-time<br>
 </p>
 
-<p><h2><b>Want to Contribute?</b></h2></p>
+<p><h2><b>#2 Want to Contribute?</b></h2></p>
 <p> Explore the Required Tech Stack - JavaScript, HTML, CSS</p>
 <p> Some Important JS Concepts to explore : <br>
   1) <a href="https://www.w3schools.com/jsref/met_win_settimeout.asp">setTimeout()</a><br>
