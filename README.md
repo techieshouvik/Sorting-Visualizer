@@ -5,6 +5,16 @@ Built Completely in HTML, CSS, Javascript<br><br>
 <p align = "center">
   <img src = "Postpic1.PNG">
 </p>
+
+<p><h2><b>How to Use the Tool?</b></h2></p>
+<p> Some Important JS Concepts to explore : <br>
+  <b>Step 1 :</b> Click on the link to the Tool→ https://techieshouvik.github.io/Sorting-Visualizer/<br>
+  <b>Step 2 :</b> Click on |Generate Array| Button<br>
+  <b>Step 3 :</b> Select your choice of Algorithm from the Drop down<br>
+  <b>Step 4 :</b> Click on RUN!<br>
+  <b>WOLLA!</b> You can see them get SORTED! in real-time<br>
+</p>
+
 <p><h2><b>Want to Contribute?</b></h2></p>
 <p> Explore the Required Tech Stack - JavaScript, HTML, CSS</p>
 <p> Some Important JS Concepts to explore : <br>
