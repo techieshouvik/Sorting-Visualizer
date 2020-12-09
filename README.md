@@ -23,3 +23,6 @@ Built Completely in HTML, CSS, Javascript<br><br>
   3) <a href="https://www.w3schools.com/jsref/met_document_queryselector.asp">QuerySelector</a><br>
   4) <a href="https://www.google.com/search?q=sorting+algorithms">Sorting Algorithms [General]</a><br>
 </p>
+
+<p><h2><b>#3 Have an Amazing idea to Add?</b></h2></p>
+<p> Head Over to the Discussions section and discuss your Ideas! </p>
