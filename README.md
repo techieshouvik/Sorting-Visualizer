@@ -5,3 +5,11 @@ Built Completely in HTML, CSS, Javascript<br>
 <p align = "center">
   <img src = "Postpic1.PNG">
 </p>
+<p><h2><b>Want to Contribute?</b></h2></p>
+<p> Explore the Required Tech Stack - JavaScript, HTML, CSS</p>
+<p> Some Important JS Concepts to explore : 
+  <a href="https://www.w3schools.com/jsref/met_win_settimeout.asp">setTimeout()</a><br>
+  <a href="https://www.w3schools.com/jsref/met_win_setinterval.asp">setInterval()</a><br>
+  <a href="https://www.w3schools.com/jsref/met_document_queryselector.asp">QuerySelector</a><br>
+  <a href="https://www.google.com/search?q=sorting+algorithms">Sorting Algorithms [General]</a><br>
+</p>
