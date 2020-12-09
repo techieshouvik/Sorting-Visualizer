@@ -8,7 +8,7 @@ Built Completely in HTML, CSS, Javascript<br><br>
 
 <p><h2><b>How to Use the Tool?</b></h2></p>
 <p> Some Important JS Concepts to explore : <br>
-  <b>Step 1 :</b> Click on the link to the Tool→ https://techieshouvik.github.io/Sorting-Visualizer/<br>
+  <b>Step 1 :</b> Click on the link to the Tool→ <b><a href="https://techieshouvik.github.io/Sorting-Visualizer/">Sorting Visualizer</a></b> <br>
   <b>Step 2 :</b> Click on |Generate Array| Button<br>
   <b>Step 3 :</b> Select your choice of Algorithm from the Drop down<br>
   <b>Step 4 :</b> Click on RUN!<br>
