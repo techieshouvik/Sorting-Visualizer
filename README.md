@@ -4,7 +4,7 @@
 > An easy to use Sorting Visualizer Tool for **Educational Use**. \
 > Built Completely in HTML, CSS and Javascript
 
-![](./Img/Postpic1.PNG)
+![](./img/Postpic1.PNG)
 
 ## #1 How to Use the Tool?
 Some Important JS Concepts to explore:
