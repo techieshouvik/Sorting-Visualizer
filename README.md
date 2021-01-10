@@ -1,29 +1,36 @@
 # Sorting-Visualizer
-**Use the Tool:** [Sorting Visualizer](https://techieshouvik.github.io/Sorting-Visualizer/)
+An Educational Web App That Shows Several Sorting Algorithms in action.
 
-> An easy to use Sorting Visualizer Tool for **Educational Use**. \
-> Built Completely in HTML, CSS and Javascript
+## Preview
+![](img/demo.gif)
 
-![](Postpic1.PNG)
+## Usage
+- Clone the Repo
+- Open `index.html`
 
-## #1 How to Use the Tool?
-Some Important JS Concepts to explore:
-- **Step 1:** Click on the link to the Tool→ [Sorting Visualizer](https://techieshouvik.github.io/Sorting-Visualizer/)
-- **Step 2:** Click on `Generate Array` Button
-- **Step 3:** Select your choice of Algorithm from the Drop down
-- **Step 4:** Click on RUN!
+`OR`
 
-**Voilà** You can see them get SORTED in real-time!
+- Use the [Online Demo](https://techieshouvik.github.io/Sorting-Visualizer/)
 
-## #2 Want to Contribute?
-Explore the Required Tech Stack - JavaScript, HTML, CSS
+## Built With
+- HTML
+- CSS
+- Vanilla JS
 
-Some Important JS Concepts to explore :
-  1) [setTimeout()](https://www.w3schools.com/jsref/met_win_settimeout.asp)
-  2) [setInterval()](https://www.w3schools.com/jsref/met_win_setinterval.asp)
-  3) [QuerySelector](https://www.w3schools.com/jsref/met_document_queryselector.asp)
-  4) [Sorting Algorithms [General]](https://www.google.com/search?q=sorting+algorithms)
+## Prerequisites
+* Basic HTML, CSS & Js knowledge
+* Important Js Concepts to explore
+[setTimeOut()](https://www.w3schools.com/jsref/met_win_settimeout.asp)
+[setInterval()](https://www.w3schools.com/jsref/met_win_setinterval.asp)
+[querySelector](https://www.w3schools.com/jsref/met_document_queryselector.asp)
 
+## Contributing
+When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
 
-## #3 Have an Amazing idea to Add?
-Head Over to the Discussions section and discuss your Ideas!
+👌 Ways to improve the project:
+- Implement new Sorting Algorithms
+- Dark Theme
+- Report bugs
+
+## License ⚖
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
