@@ -4,12 +4,6 @@ An Educational Web App That Shows Several Sorting Algorithms in action.
 ## Preview
 ![](img/demo.gif)
 
-## Usage
-- Clone the Repo
-- Open `index.html`
-
-`OR`
-
 - Use the [Online Demo](https://techieshouvik.github.io/Sorting-Visualizer/)
 
 ## Built With
