@@ -25,6 +25,7 @@ When contributing to this repository, please first discuss the change you wish t
 - Implement new Sorting Algorithms
 - Dark Theme
 - Report bugs
+- Check more issues under Issues Tab.
 
 ## License ⚖
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
