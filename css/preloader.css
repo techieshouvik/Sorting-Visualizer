@@ -10,5 +10,15 @@
 }
 
 #preloader{
-    width: 300px;
+    width: 140px;
+}
+
+.fade-out{
+    animation: fadeOut .5s forwards ease-in-out;
+    animation-iteration-count: 1;
+}
+
+@keyframes fadeOut{
+    0%{ opacity: 1; }
+    100%{ opacity: 0; }
 }
