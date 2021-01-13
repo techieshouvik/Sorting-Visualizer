@@ -10,19 +10,6 @@
 }
 
 #preloader{
-    max-width: 100px;
-    max-height: 100px;
-    
-    animation-name: animatic;
-    animation-duration: 2s; /* or: Xms */
-    animation-iteration-count: 1;
-    animation-fill-type: forwards;
-    
-}
-
-@keyframes animatic{
-
-    0%{opacity:1;}
-    100%{opacity:0;}
-
+    max-width: 200px;
+    max-height: 200px;
 }
