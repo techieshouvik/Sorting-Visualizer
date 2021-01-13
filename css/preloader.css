@@ -10,8 +10,8 @@
 }
 
 #preloader{
-    width: 200px;
-    height: 150px;
+    max-width: 100px;
+    max-height: 100px;
     
     animation-name: animatic;
     animation-duration: 2s; /* or: Xms */
@@ -23,7 +23,6 @@
 @keyframes animatic{
 
     0%{opacity:1;}
-    70%{opacty:1;}
     100%{opacity:0;}
 
 }
