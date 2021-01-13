@@ -10,5 +10,20 @@
 }
 
 #preloader{
-    width: 300px;
+    width: 200px;
+    height: 150px;
+    
+    animation-name: animatic;
+    animation-duration: 2s; /* or: Xms */
+    animation-iteration-count: 1;
+    animation-fill-type: forwards;
+    
+}
+
+@keyframes animatic{
+
+    0%{opacity:1;}
+    70%{opacty:1;}
+    100%{opacity:0;}
+
 }
