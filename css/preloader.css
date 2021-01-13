@@ -10,18 +10,5 @@
 }
 
 #preloader{
-    width: 140px;
-}
-
-.fade-out{
-    animation: fadeOut .5s forwards ease-in-out;
-    animation-iteration-count: 1;
-    display:none;
-    z-index:-5;
-}
-
-@keyframes fadeOut{
-    0%{ opacity: 1; }
-    100%{ opacity: 0; 
-            display:none;}
+    width: 300px;
 }
