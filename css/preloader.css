@@ -17,6 +17,7 @@
     animation: fadeOut .5s forwards ease-in-out;
     animation-iteration-count: 1;
     display:none;
+    z-index:-5;
 }
 
 @keyframes fadeOut{
